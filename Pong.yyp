@@ -16,6 +16,7 @@
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},"order":0,},
     {"id":{"name":"rosto","path":"sprites/rosto/rosto.yy",},"order":5,},
     {"id":{"name":"spr_bola","path":"sprites/spr_bola/spr_bola.yy",},"order":2,},
+    {"id":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},"order":7,},
     {"id":{"name":"obj_colisao","path":"objects/obj_colisao/obj_colisao.yy",},"order":4,},
     {"id":{"name":"rm_partida","path":"rooms/rm_partida/rm_partida.yy",},"order":0,},
   ],
