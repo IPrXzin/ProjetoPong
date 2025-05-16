@@ -6,7 +6,6 @@
     {"id":{"name":"rm_lobby","path":"rooms/rm_lobby/rm_lobby.yy",},"order":1,},
     {"id":{"name":"obj_pontos","path":"objects/obj_pontos/obj_pontos.yy",},"order":3,},
     {"id":{"name":"spr_raquete2","path":"sprites/spr_raquete2/spr_raquete2.yy",},"order":3,},
-    {"id":{"name":"ed9uyhfsabuy8ifhnvgeysugbe","path":"sprites/ed9uyhfsabuy8ifhnvgeysugbe/ed9uyhfsabuy8ifhnvgeysugbe.yy",},"order":7,},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":1,},
     {"id":{"name":"spr_raquete","path":"sprites/spr_raquete/spr_raquete.yy",},"order":0,},
     {"id":{"name":"obj_raquete2","path":"objects/obj_raquete2/obj_raquete2.yy",},"order":1,},
