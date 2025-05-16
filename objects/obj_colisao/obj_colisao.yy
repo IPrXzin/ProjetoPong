@@ -6,7 +6,7 @@
     "name": "spr_colisao",
     "path": "sprites/spr_colisao/spr_colisao.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
