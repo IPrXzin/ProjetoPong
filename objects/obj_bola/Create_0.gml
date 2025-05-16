@@ -1,3 +1,5 @@
+// passei por ak 
+
 spd = 0
 
 randomize()
