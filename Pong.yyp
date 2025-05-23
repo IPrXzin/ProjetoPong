@@ -7,6 +7,7 @@
     {"id":{"name":"obj_pontos","path":"objects/obj_pontos/obj_pontos.yy",},"order":3,},
     {"id":{"name":"spr_raquete2","path":"sprites/spr_raquete2/spr_raquete2.yy",},"order":3,},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":1,},
+    {"id":{"name":"snd_boing","path":"sounds/snd_boing/snd_boing.yy",},"order":0,},
     {"id":{"name":"commi","path":"notes/commi/commi.yy",},"order":0,},
     {"id":{"name":"spr_raquete","path":"sprites/spr_raquete/spr_raquete.yy",},"order":0,},
     {"id":{"name":"obj_raquete2","path":"objects/obj_raquete2/obj_raquete2.yy",},"order":1,},

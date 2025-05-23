@@ -1,2 +1,3 @@
 move_bounce_solid(true)
-spd += 0.5
+audio_play_sound(snd_boing,0,0)
+spd += incremento
