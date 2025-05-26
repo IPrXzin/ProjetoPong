@@ -1,7 +1,9 @@
 
 
-spd = 0
-incremento = 0.1
+spd = 2
+incremento = 0.2
+
+speed = 0
 
 randomize()
 direcao = choose(45, 135, 225 , 315)

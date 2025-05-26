@@ -1,3 +1,5 @@
 
-
-vspeed = -spd
+if(global.doisJogadores == true){
+	
+	vspeed = -spd
+}

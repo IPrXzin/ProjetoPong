@@ -15,7 +15,7 @@
     {"id":{"name":"obj_bola","path":"objects/obj_bola/obj_bola.yy",},"order":2,},
     {"id":{"name":"spr_colisao","path":"sprites/spr_colisao/spr_colisao.yy",},"order":6,},
     {"id":{"name":"obj_raquete","path":"objects/obj_raquete/obj_raquete.yy",},"order":0,},
-    {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},"order":0,},
+    {"id":{"name":"scr_global","path":"scripts/scr_global/scr_global.yy",},"order":0,},
     {"id":{"name":"rosto","path":"sprites/rosto/rosto.yy",},"order":5,},
     {"id":{"name":"spr_bola","path":"sprites/spr_bola/spr_bola.yy",},"order":2,},
     {"id":{"name":"obj_colisao","path":"objects/obj_colisao/obj_colisao.yy",},"order":4,},

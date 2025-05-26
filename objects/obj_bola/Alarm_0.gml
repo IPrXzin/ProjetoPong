@@ -1,5 +1,5 @@
 
 
 
-spd = 3
+speed = spd
 

@@ -1,7 +1,8 @@
 
 
+global.vspdBola = vspeed
 
-speed = spd
+show_debug_message(global.vspdBola)
 
 
 
