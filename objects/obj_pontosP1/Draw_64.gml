@@ -1,0 +1,1 @@
+draw_text(550, 160, pontos)
