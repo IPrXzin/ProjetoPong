@@ -1,8 +1,8 @@
 
 
  
-spd = 2
-incremento = 0.2
+spd = 3
+incremento = .5
 
 speed = 0
 
