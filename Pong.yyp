@@ -15,11 +15,14 @@
     {"id":{"name":"bolinha_olho","path":"sprites/bolinha_olho/bolinha_olho.yy",},"order":4,},
     {"id":{"name":"obj_bola","path":"objects/obj_bola/obj_bola.yy",},"order":2,},
     {"id":{"name":"spr_colisao","path":"sprites/spr_colisao/spr_colisao.yy",},"order":6,},
+    {"id":{"name":"spr_botao","path":"sprites/spr_botao/spr_botao.yy",},"order":7,},
     {"id":{"name":"obj_raquete","path":"objects/obj_raquete/obj_raquete.yy",},"order":0,},
     {"id":{"name":"scr_global","path":"scripts/scr_global/scr_global.yy",},"order":0,},
+    {"id":{"name":"obg_botao_jogar","path":"objects/obg_botao_jogar/obg_botao_jogar.yy",},"order":7,},
     {"id":{"name":"rosto","path":"sprites/rosto/rosto.yy",},"order":5,},
     {"id":{"name":"spr_bola","path":"sprites/spr_bola/spr_bola.yy",},"order":2,},
     {"id":{"name":"obj_colisao","path":"objects/obj_colisao/obj_colisao.yy",},"order":4,},
+    {"id":{"name":"obg_doisplayers","path":"objects/obg_doisplayers/obg_doisplayers.yy",},"order":6,},
     {"id":{"name":"rm_partida","path":"rooms/rm_partida/rm_partida.yy",},"order":0,},
   ],
   "Options": [
@@ -40,8 +43,8 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"rm_partida","path":"rooms/rm_partida/rm_partida.yy",},},
     {"roomId":{"name":"rm_lobby","path":"rooms/rm_lobby/rm_lobby.yy",},},
+    {"roomId":{"name":"rm_partida","path":"rooms/rm_partida/rm_partida.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},

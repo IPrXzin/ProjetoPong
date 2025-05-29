@@ -1,1 +1,2 @@
-commit do dia 25 para o 26 check
+arruma a raquete da ia 
+voltar para o centro quando fizer gol
